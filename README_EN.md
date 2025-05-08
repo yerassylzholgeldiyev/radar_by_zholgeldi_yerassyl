@@ -49,5 +49,5 @@ This project visualizes real-time data from an ultrasonic sensor using a 180° r
 Yerassyl Zholgeldiyev
 
 ## 📄 License
-MIT
+[LICENSE](./LICENSE)
 
